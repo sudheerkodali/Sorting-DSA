@@ -21,3 +21,5 @@ DSA -Sorting in Java Script1.
 16.Radix Sort Imtroduction <br>
 
 
+# Merge Sort Array
+![Image of Merge sort Array] (./)
