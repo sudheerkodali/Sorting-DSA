@@ -22,8 +22,8 @@ DSA -Sorting in Java Script1.
 
 
 # Merge two sorted arrays
-<!--<p> Now A, B are two different Arrays with different data types </p>
-<p> Let take two sorting arrays with A and B to merge them  </p>-->
+<p> Now A, B are two different Arrays with different data types </p>
+<p> Let take two sorting arrays with A and B to merge them  </p>
 ![Image of Merge Sort array](./MergesortArray.png)
 
 <!--<h3> Merge A & B </h3>
