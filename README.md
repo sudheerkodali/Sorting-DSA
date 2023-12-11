@@ -27,12 +27,12 @@ DSA -Sorting in Java Script1.
 <p> Now A, B are two different Arrays with different data types </p>
 <p> Let take two sorting arrays with A and B to merge them  </p>
 
-<!--<h3> Merge A & B </h3>
+<h3> Merge A & B </h3>
+
+![Image of Merge sort array] (./MergesortArray1.png)
+
 <ul>
 <li><p> New Array variable called C to combain two arrays A & B in Assiending order</p></li>
-![Image of Merge sort array] (./MergesortArray1.png)-->
-
-
 
 
 
