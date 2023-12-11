@@ -22,4 +22,4 @@ DSA -Sorting in Java Script1.
 
 
 # Merge Sort Array
-![Image of Merge sort Array] (./Screenshot 2023-12-02 115344.png)
+![Image of Merge Sort](./MergesortArrays/Screenshot 2023-12-02 115344.png)
