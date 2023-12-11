@@ -26,10 +26,10 @@ DSA -Sorting in Java Script1.
 <p> Let take two sorting arrays with A and B to merge them  </p>
 ![Image of Merge Sort array](./MergesortArray.png)
 
-<h3> Merge A & B </h3>
+<!--<h3> Merge A & B </h3>
 <ul>
 <li><p> New Array variable called C to combain two arrays A & B in Assiending order</p></li>
-![Image of Merge sort array] (./MergesortArray1.png)
+![Image of Merge sort array] (./MergesortArray1.png)-->
 
 
 
