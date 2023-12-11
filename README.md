@@ -29,7 +29,7 @@ DSA -Sorting in Java Script1.
 
 # Merge A & B 
 
-![Image of Merge sort array] (./MergesortArray1.png)
+![Image of Merge sort array`](./MergesortArray1.png)
 
 <ul>
 <li><p> New Array variable called C to combain two arrays A & B in Assiending order</p></li>
