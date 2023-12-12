@@ -35,6 +35,9 @@ DSA -Sorting in Java Script1.
 <li><p> New Array variable called C to combain two arrays A & B in Assending order</p></li>
 
 # How to Merge A & B values with explination 
+
+![Image of Merge sort array`](./MergesortArray2.png)
+
 <ul>
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
 <li><p> while as we know the count the DATA TYPES with 0,1,2,3,4, where values are i= [2,5,8,9,10] j=[2,4,3,18] count with [0,1,2,3]</p></li>
