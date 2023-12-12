@@ -38,7 +38,7 @@ DSA -Sorting in Java Script1.
 
 ![Image of Merge sort array`](./MergesortArray2.png)
 
-<ul>
+
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
 <li><p> while as we know the count the DATA TYPES with 0,1,2,3,4, where values are i= [2,5,8,9,10] j=[2,4,7,18] count with [0,1,2,3]</p></li>
 <li><p> maximum count from LEFT TO RIGHT i=[2,5,8,9,10] j=[2,4,7,18] => that means I to J Assending order SMALL to Higher values.</p></li>
@@ -52,5 +52,6 @@ DSA -Sorting in Java Script1.
 # Merge two sorted Arrays and the values are 
 
 ![Image of Merge sort array`](./MergesortArray3.png)
+<p>when we compare the array values between A & B , combain with c then the values look in the above picture</p>
 
 
