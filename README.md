@@ -57,4 +57,4 @@ DSA -Sorting in Java Script1.
 
 # 4.Merge sort theory
 
-![Merge sort theory](./Merge sort1.png)
+![Merge sort theory](./Mergesort.png)
