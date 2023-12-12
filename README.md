@@ -53,6 +53,6 @@ DSA -Sorting in Java Script1.
 
 ![Image of Merge sort array`](./MergesortArray3.png)
 
-<li><p>when we compare the array values between A & B , combain with C then the values look in the above picture</p></li>
+<li><p>when we compare the array values between A & B , combine with C then the values look in the above picture</p></li>
 
 
