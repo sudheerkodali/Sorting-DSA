@@ -47,11 +47,12 @@ DSA -Sorting in Java Script1.
 <li><p> j=0 => 2 & i=1 =>5 :[2,2]  =>2 is small compared to'5' so 'j' value comes first and value 2 is forwoded</p></li>
 <li><p> i=1 => 5 & j=1 =>4 :[2,2,4] => 4 is smaller compared to 5 so 'j' comes first and value 2,2 is forwored</p></li>
 <li><p> i=1 => 5 & j=2 =>7 :[2,2,4,5] => 5 is smaller compared to 7 so 'i' comes first and value 2,2,4 is forworded</p></li>
-<li><p> till the Highest number comes and it ends with [2,2,4,5,7,8,9,18]</p></li>
+<li><p> Till the Highest number comes and it ends with [2,2,4,5,7,8,9,18]</p></li>
 
 # Merge two sorted Arrays and the values are 
 
 ![Image of Merge sort array`](./MergesortArray3.png)
-<p>when we compare the array values between A & B , combain with C then the values look in the above picture</p>
+
+<li><p>when we compare the array values between A & B , combain with C then the values look in the above picture</p></li>
 
 
