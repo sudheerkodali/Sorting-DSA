@@ -40,15 +40,17 @@ DSA -Sorting in Java Script1.
 
 <ul>
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
-<li><p> while as we know the count the DATA TYPES with 0,1,2,3,4, where values are i= [2,5,8,9,10] j=[2,4,3,18] count with [0,1,2,3]</p></li>
+<li><p> while as we know the count the DATA TYPES with 0,1,2,3,4, where values are i= [2,5,8,9,10] j=[2,4,7,18] count with [0,1,2,3]</p></li>
 <li><p> maximum count from LEFT TO RIGHT i=[2,5,8,9,10] j=[2,4,7,18] => that means I to J Assending order SMALL to Higher values.</p></li>
   
 <li><p> i=0 => 2 & j=0 =>2 :[2]  =>2 is small from starting with 'i' compared to 'j'</p></li>
 <li><p> j=0 => 2 & i=1 =>5 :[2,2]  =>2 is small compared to'5' so 'j' value comes first and value 2 is forwoded</p></li>
 <li><p> i=1 => 5 & j=1 =>4 :[2,2,4] => 4 is smaller compared to 5 so 'j' comes first and value 2,2 is forwored</p></li>
 <li><p> i=1 => 5 & j=2 =>7 :[2,2,4,5] => 5 is smaller compared to 7 so 'i' comes first and value 2,2,4 is forworded</p></li>
-</ul>
+<li><p> till the Highest number comes and it ends with [2,2,4,5,7,8,9,18]</p></li>
 
+# Merge two sorted Arrays and the values are 
 
+![Image of Merge sort array`](./MergesortArray3.png)
 
 
