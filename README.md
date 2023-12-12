@@ -55,4 +55,6 @@ DSA -Sorting in Java Script1.
 
 <li><p>when we compare the array values between A & B , combine with C then the values look in the above picture</p></li>
 
+# Merge sort theory
 
+![ Merge sort theory ] (./)
