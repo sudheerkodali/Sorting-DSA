@@ -4,7 +4,7 @@ DSA -Sorting in Java Script1.
 1.Module introduction <br>
 2.selection sort implementation - java script <br>
 3.Merge two sorted arrays-theory <br>
-4.Merge sort theoty <br>
+4.Merge sort theory <br>
 5.Merge sort - implementation <br>
 6.Merge sort complexity analysis <br>
 7.Two way partitioning Algorithm <br>
