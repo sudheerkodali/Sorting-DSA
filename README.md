@@ -21,7 +21,7 @@ DSA -Sorting in Java Script1.
 16.Radix Sort Imtroduction <br>
 
 
-# Merge two sorted arrays
+# 3.Merge two sorted arrays
 ![Image of Merge Sort array](./MergesortArray.png)
 
 <p> Now A, B are two different Arrays with different data types </p>
@@ -32,7 +32,7 @@ DSA -Sorting in Java Script1.
 ![Image of Merge sort array`](./MergesortArray1.png)
 
 <ul>
-<li><p> New Array variable called C to combain two arrays A & B in Assiending order</p></li>
+<li><p> New Array variable called C to combain two arrays A & B in Assending order</p></li>
 
 
 
