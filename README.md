@@ -61,4 +61,4 @@ DSA -Sorting in Java Script1.
 
 # combination of values
 
-![merge sort theoty](./mergesort.png)
+![merge sort theoty](./mergesort1.png)
