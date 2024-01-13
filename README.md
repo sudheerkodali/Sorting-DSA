@@ -1,6 +1,6 @@
 # Sorting
 
-##DSA -Sorting in Java Script1##
+## DSA -Sorting in Java Script1
 
 | No.| Questions                                                                                                                                                                |
 | ---| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,8 +8,8 @@
 
 |  1.|[Module-Introduction](#)                                                                                                                                                  |
 
-//1.Module introduction <br>
-//2.selection sort implementation - java script <br>
+<!--1.Module introduction <br>
+2.selection sort implementation - java script <br>
 3.Merge two sorted arrays-theory <br>
 4.Merge sort theory <br>
 5.Merge sort - implementation <br>
@@ -25,7 +25,7 @@
 13.Merge two sorted arrays implementation - javascript <br>
 14.Two way partitioning Implementation <br>
 15.counting sort - Implementation <br>
-16.Radix Sort Imtroduction <br>
+16.Radix Sort Imtroduction <br>-->
 
 
 # 3.Merge two sorted arrays - theory
