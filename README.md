@@ -9,8 +9,7 @@
 | 2  | [Selection-sort-implementation-java-script](#)                                                                                                                           |
 | 3  | [Merge two sorted arrays-theory](#)                                                                                                                                      |
 | 4  | [Merge-sort-theory](#)                                                                                                                                                   |
-| 5  | [Merge-sort-implementation](#)                                                                                                                                         
-|
+| 5  | [Merge-sort-implementation](#)                                                                                                                                           |
 | 6  | [Merge-sort-complexity-analysis ](#)                                                                                                                                     |
 | 7  | [Two-way-partitioning-Algorithm](#)                                                                                                                                      |
 | 8  | [Quick-sort - Theory](#)                                                                                                                                                 |
