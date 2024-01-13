@@ -11,12 +11,12 @@
 | 4  | [Merge-sort-theory](#)                                                                                                                                                   |
 | 5  | [Merge-sort-implementation](#)                                                                                                                                         
 |
-| 6  | [Merge sort complexity analysis ](#)                                                                                                                                     |
-| 7  | [Two way partitioning Algorithm](#)                                                                                                                                      |
-| 8  | [Quick sort - Theory](#)                                                                                                                                                 |
-| 9  | [Quick sort - Implementation](#)                                                                                                                                         |
-| 10 | [counting sort Algorithm ](#)                                                                                                                                            |
-| 11 | [How to make counting sort table](#)                                                                                                                                     |
+| 6  | [Merge-sort-complexity-analysis ](#)                                                                                                                                     |
+| 7  | [Two-way-partitioning-Algorithm](#)                                                                                                                                      |
+| 8  | [Quick-sort - Theory](#)                                                                                                                                                 |
+| 9  | [Quick-sort - Implementation](#)                                                                                                                                         |
+| 10 | [counting-sort-Algorithm ](#)                                                                                                                                            |
+| 11 | [How-to-make-counting-sort-table](#)                                                                                                                                     |
 
 
 
