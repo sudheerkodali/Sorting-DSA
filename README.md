@@ -16,14 +16,14 @@
 | 9  | [Quick-sort - Implementation](#)                                                                                                                                        |
 | 10 | [counting-sort-Algorithm ](#)                                                                                                                                           |
 | 11 | [How-to-make-counting-sort-table](#)                                                                                                                                    |
-| 12 | [Bubble-sort-work](#) 
-|
-| 13 | [Bubble-sort-implementation](#) 
-|
-| 14 | [Selection-sort-working](#)   
-|
-| 15 | [Merge-two-sorted-arrays-implemention](#)    
-|
+| 12 | [Bubble-sort-work](#)                                                                                                                                                   |
+| 13 | [Bubble-sort-implementation](#)                                                                                                                                         |
+| 14 | [Selection-sort-working](#)                                                                                                                                            |                                                                                        
+| 15 | [Merge-two-sorted-arrays-implemention](#)                                                                                                                             
+|           
+
+
+
 
 
 
