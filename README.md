@@ -2,23 +2,28 @@
 
 ## DSA -Sorting in Java Script1
 
-| No.| Questions                                                                                                                                                                |
+| No.| Questions                                                                                                                                                               |
 | ---| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | **Sorting-concepts**                                                                                                                                                     |      
-| 1  | [Module-Introduction](#)                                                                                                                                                 |
-| 2  | [Selection-sort-implementation-java-script](#)                                                                                                                           |
-| 3  | [Merge two sorted arrays-theory](#)                                                                                                                                      |
-| 4  | [Merge-sort-theory](#)                                                                                                                                                   |
-| 5  | [Merge-sort-implementation](#)                                                                                                                                           |
-| 6  | [Merge-sort-complexity-analysis ](#)                                                                                                                                     |
-| 7  | [Two-way-partitioning-Algorithm](#)                                                                                                                                      |
-| 8  | [Quick-sort - Theory](#)                                                                                                                                                 |
-| 9  | [Quick-sort - Implementation](#)                                                                                                                                         |
-| 10 | [counting-sort-Algorithm ](#)                                                                                                                                            |
-| 11 | [How-to-make-counting-sort-table](#)                                                                                                                                     |
-
-
-
+|    | **Sorting-concepts**                                                                                                                                                    |      
+| 1  | [Module-Introduction](#)                                                                                                                                                |
+| 2  | [Selection-sort-implementation-java-script](#)                                                                                                                          |
+| 3  | [Merge two sorted arrays-theory](#)                                                                                                                                     |
+| 4  | [Merge-sort-theory](#)                                                                                                                                                  |
+| 5  | [Merge-sort-implementation](#)                                                                                                                                          |
+| 6  | [Merge-sort-complexity-analysis ](#)                                                                                                                                    |
+| 7  | [Two-way-partitioning-Algorithm](#)                                                                                                                                     |
+| 8  | [Quick-sort - Theory](#)                                                                                                                                                |
+| 9  | [Quick-sort - Implementation](#)                                                                                                                                        |
+| 10 | [counting-sort-Algorithm ](#)                                                                                                                                           |
+| 11 | [How-to-make-counting-sort-table](#)                                                                                                                                    |
+| 12 | [Bubble-sort-work](#) 
+|
+| 13 | [Bubble-sort-implementation](#) 
+|
+| 14 | [Selection-sort-working](#)   
+|
+| 15 | [Merge-two-sorted-arrays-implemention](#)    
+|
 
 
 
