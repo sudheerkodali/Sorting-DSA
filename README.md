@@ -85,7 +85,7 @@
 
 <li><p>when we compare the array values between A & B , combine with C then the values look in the above picture</p></li>
 
-# 4.Merge sort theory
+| 4  | [Merge-sort-theory](#)  
 
 ![Merge sort theory](./Mergesort/Mergesort.png)
 
