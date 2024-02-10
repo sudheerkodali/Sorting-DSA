@@ -67,7 +67,7 @@
 
 # How to Merge A & B values with explination 
 
-![Image of Merge sort array`](.MergesortArrays/MergesortArray2.png)
+![Image of Merge sort array`](./MergesortArrays/MergesortArray2.png)
 
 
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
@@ -88,7 +88,7 @@
 
 # 4.Merge sort theory
 
-![Merge sort theory](./MergesortArrays/Mergesort.png)
+![Merge sort theory](./Mergesort/Mergesort.png)
 
 # combination of values
 
