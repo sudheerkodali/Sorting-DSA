@@ -92,9 +92,9 @@
 
 # combination of values
 
-![merge sort theoty](./MergesortArrays/Mergesort1.png)
+![merge sort theoty](./Mergesort/Mergesort1.png)
 
 
 # Added values to Merge sort
 
-![Merge sort theory](./MergesortArrays/Mergesort2.png)
+![Merge sort theory](./Mergesort/Mergesort2.png)
