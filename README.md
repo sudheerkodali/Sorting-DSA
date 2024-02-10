@@ -51,8 +51,7 @@
 15.counting sort - Implementation <br>
 16.Radix Sort Imtroduction <br>-->
 
-
-# 3.Merge two sorted arrays - theory
+| 3  | [Merge two sorted arrays-theory](#)     
 ![Image of Merge Sort array](./MergesortArrays/MergesortArray.png)
 
 <p> Now A, B are two different Arrays with different data types </p>
