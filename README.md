@@ -53,7 +53,7 @@
 
 
 # 3.Merge two sorted arrays - theory
-![Image of Merge Sort array](.MergesortArray/MergesortArray.png)
+![Image of Merge Sort array](.Sorting-DSA/MergesortArray/MergesortArray.png)
 
 <p> Now A, B are two different Arrays with different data types </p>
 <p> Let take two sorting arrays with A and B to merge them  </p>
