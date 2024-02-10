@@ -60,14 +60,14 @@
 
 # Merge A & B 
 
-![Image of Merge sort array`](./MergesortArray1.png)
+![Image of Merge sort array`](./MergesortArrays/MergesortArray1.png)
 
 <ul>
 <li><p> New Array variable called C to combain two arrays A & B in Assending order</p></li>
 
 # How to Merge A & B values with explination 
 
-![Image of Merge sort array`](./MergesortArray2.png)
+![Image of Merge sort array`](.MergesortArrays/MergesortArray2.png)
 
 
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
@@ -82,19 +82,19 @@
 
 # Merge two sorted Arrays and the values are 
 
-![Image of Merge sort array](./MergesortArray3.png)
+![Image of Merge sort array](./MergesortArrays/MergesortArray3.png)
 
 <li><p>when we compare the array values between A & B , combine with C then the values look in the above picture</p></li>
 
 # 4.Merge sort theory
 
-![Merge sort theory](./Mergesort.png)
+![Merge sort theory](./MergesortArrays/Mergesort.png)
 
 # combination of values
 
-![merge sort theoty](./Mergesort1.png)
+![merge sort theoty](./MergesortArrays/Mergesort1.png)
 
 
 # Added values to Merge sort
 
-![Merge sort theory](./Mergesort2.png)
+![Merge sort theory](./MergesortArrays/Mergesort2.png)
