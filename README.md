@@ -102,7 +102,7 @@
 | 14 | [Selection-sort-working](#)   
 
 # 
-![Select-sort-work](./14selectionSorting/image1.png)
+![Select-sort-work](./selectionSorting/image1.png)
 
 
 
