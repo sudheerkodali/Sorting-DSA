@@ -101,10 +101,18 @@
 
 | 14 | [Selection-sort-working](#)   
 
-# 
+# 14.1
 ![Select-sort-work](./selectionSortworking/image1.png)
 
+# 14.2
+![Select-sort-work](./selectionSortworking/image2.png)
 
+# 14.3
+![Select-sort-work](./selectionSortworking/image3.png)
 
+# 14.4
+![Select-sort-work](./selectionSortworking/image4.png)
 
+# 14.5
+![Select-sort-work](./selectionSortworking/image5.png)
 
