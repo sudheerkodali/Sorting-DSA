@@ -97,3 +97,13 @@
 # Added values to Merge sort
 
 ![Merge sort theory](./Mergesort/Mergesort2.png)
+
+| 14 | [Selection-sort-working](#)   
+
+# 
+![Select-sort-work](./14selectionSorting/image1.png)
+
+
+
+
+
