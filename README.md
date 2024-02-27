@@ -52,21 +52,21 @@
 16.Radix Sort Imtroduction <br>-->
 
 | 3  | [Merge two sorted arrays-theory](#)     
-![Image of Merge Sort array](./MergesortArrays/MergesortArray.png)
+![Image of Merge Sort array](./MergesortArrays/MergesortedArray.png)
 
 <p> Now A, B are two different Arrays with different data types </p>
 <p> Let take two sorting arrays with A and B to merge them  </p>
 
 # Merge A & B 
 
-![Image of Merge sort array`](./MergesortArrays/MergesortArray1.png)
+![Image of Merge sort array`](./MergesortArrays/MergesortedArray1.png)
 
 <ul>
 <li><p> New Array variable called C to combain two arrays A & B in Assending order</p></li>
 
 # How to Merge A & B values with explination 
 
-![Image of Merge sort array`](./MergesortArrays/MergesortArray2.png)
+![Image of Merge sort array`](./MergesortArrays/MergesortedArray2.png)
 
 
 <li><p> First essume that A[i] B[j] with start with sorting with 'i' to 'j' from LEFT to RIGHT</p></li>
@@ -81,7 +81,7 @@
 
 # Merge two sorted Arrays and the values are 
 
-![Image of Merge sort array](./MergesortArrays/MergesortArray3.png)
+![Image of Merge sort array](./MergesortArrays/MergesortedArray3.png)
 
 <li><p>when we compare the array values between A & B , combine with C then the values look in the above picture</p></li>
 
