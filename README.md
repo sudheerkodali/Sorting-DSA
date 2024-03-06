@@ -121,7 +121,7 @@
 <p> Let us assume that count sort is not a comparision, however it is the array that we con not count from the range </p>
 <p>It would be the certain range between [0,k] we can not expect from this range like negative range or number,in an Array </p>
 
-# contingsort
+# countsort
 ![Image of Countsort](./Countsort/image2.png)
 <p> Let we determine the number range array A=[2,5,1,4,4,2,6] => count=[0,1,2,3,4,5,6,7,8] </p>
 <p> itterate to A with count values for instance A = 2 value in count =[0,0,1,0,0,0,0,0,0] </p>
@@ -131,10 +131,13 @@
 <p> itterate to A with count values for instance A = 4 value in count =[0,1,1,0,2,1,0,0,0] Here 4 comes two times and the value of 4 is 2 </p>
 <p> itterate to A with count values for instance A = 2 value in count =[0,1,2,0,2,1,0,0,0] 
 Here 2 value comes two times and the value of 2 is 2 times occurs </p>
+
+# countsort
+![Image of Countsort](./Countsort/image3.png)
 <p> itterate to A with count values for instance A = 6 value in count =[0,1,2,0,2,1,1,0,0] </p>
 <p> The count values of 7, 8 are 0,0-----------------------------count=[0,1,2,0,2,1,1,0,0]</p>
 
-![Image of Countsort](./Countsort/image3.png)
+
 <p > Cumelative sum final result add result value from left 0, 0+1=1,1+2=3,3+0=3,3+2=5,5+1=6,6+1=7,7+0=7,7+0=7 </p>-------------count=[0,1,3,3,5,6,7,7,7] is called cumelative sum </p>
 <p> New result value array formula is K, COUNT[K]: K-1= </p>
 <P> Counting sort count the nummber of elements </P>
