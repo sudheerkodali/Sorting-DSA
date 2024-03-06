@@ -120,5 +120,6 @@
 ![Image of Countsort](./Countsort/image1.png)
 <p> Let us assume that count sort is not a comparision, however it is the array that we con not count from the range </p>
 <p>It would be the certain range between [0,k] we can not expect from this range like negative range or number,in an Array </p>
+![Image of Countsort](./Countsort/image2.png)
 <p> Let we determine the number range array A=[2,5,1,4,4,2,6] => count=[0,1,2,3,4,5,6,7,8] </p>
 <p> count=[
