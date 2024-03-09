@@ -144,8 +144,8 @@ Here 2 value comes two times and the value of 2 is 2 times occurs </p>
 # Final count
 ![Image of Countsort](./Countsort/image5.png)
 
-<p> New result value array formula is K, COUNT[K]: K-1, for instance k =2 , k-1:2-1-1, k=5 K-1:5-1=4, </p>
-<P> Counting sort count the nummber of elements </P>
+<p> New result value array formula is K, COUNT[K]: [K-1], for instance [k =2] , [k-2-1-1], [k=5, K-1=5-1=4], </p>
+<P> Counting sort count the number of elements </P>
 <p> Complexity would be 'LINEAR'</p>
 
 
