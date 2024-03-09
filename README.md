@@ -138,7 +138,7 @@ Here 2 value comes two times and the value of 2 is 2 times occurs </p>
 <p> The count values of 7, 8 are 0,0-----------------------------count=[0,1,2,0,2,1,1,0,0]</p>
 
 # cumulative sum
-![Image of Countsort](./Countsort/image 4.png)
+![Image of Countsort](./Countsort/image4.png)
 <p > Cumulative sum final result add result value from left 0, 0+1=1,1+2=3,3+0=3,3+2=5,5+1=6,6+1=7,7+0=7,7+0=7 </p>-------------count=[0,1,3,3,5,6,7,7,7] is called cumelative sum </p>
 <p> New result value array formula is K, COUNT[K]: K-1= </p>
 <P> Counting sort count the nummber of elements </P>
